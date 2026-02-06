@@ -11,15 +11,15 @@
 
 ### 🔗 Connect with me:
 <p>
-<a href="(https://www.linkedin.com/in/harimuthuganesh/)">
+<a href="https://www.linkedin.com/in/harimuthuganesh/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
 </a>
 
-<a href="(https://leetcode.com/u/Hari_Ganesh_R/)">
+<a href="https://leetcode.com/u/Hari_Ganesh_R/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
 </a>
 
-<a href="(https://www.skillrack.com/faces/resume.xhtml?id=485830&key=9dd1edbba3ada563be737c45555535f6361cb91e)">
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=485830&key=9dd1edbba3ada563be737c45555535f6361cb91e">
   <img src="https://avatars.githubusercontent.com/u/74754411?s=200&v=4" width="40" />
 </a>
 </p>
@@ -37,6 +37,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariMuthuGanesh&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariMuthuGanesh)
