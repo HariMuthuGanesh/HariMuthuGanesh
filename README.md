@@ -2,15 +2,15 @@
 
 ### 🚀 Passionate full stack developer and cybersecurity enthusiast
 
-🌱 I’m currently learning **Full Stack and Cybersecurity**  
-🤝 I’m looking to collaborate on **Web Apps, Security Projects, and AI Tools**  
-💬 Ask me about **Java, Networks, Pentesting basics**  
-📧 Reach me at **hariganesh260@gmail.com**
+I'm Hari, a cybersecurity enthusiast and growing full stack developer, focused on building secure, scalable applications. I love exploring security, networks, and the powerful world of generative AI.
+
+![Profile Views](https://komarev.com/ghpvc/?username=HariMuthuGanesh&color=blue)
 
 ---
 
 ### 🔗 Connect with me:
 <p>
+
 <a href="https://www.linkedin.com/in/harimuthuganesh/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
 </a>
@@ -22,6 +22,11 @@
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=485830&key=9dd1edbba3ada563be737c45555535f6361cb91e">
   <img src="https://avatars.githubusercontent.com/u/74754411?s=200&v=4" width="40" />
 </a>
+
+<a href="https://www.hackerrank.com/profile/hariganesh260">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
+</a>
+
 </p>
 
 ---
