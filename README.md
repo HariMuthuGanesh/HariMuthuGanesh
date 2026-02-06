@@ -2,7 +2,7 @@
 
 ### 🚀 Passionate full stack developer and cybersecurity enthusiast
 
-I'm Hari, a cybersecurity enthusiast and growing full stack developer, focused on building secure, scalable applications. I love exploring security, networks, and the powerful world of generative AI.
+I'm Hari Muthu Ganesh R, a cybersecurity enthusiast and growing full stack developer, focused on building secure, scalable applications. I love exploring security, networks, and the powerful world of generative AI.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HariMuthuGanesh&color=blue)
 
