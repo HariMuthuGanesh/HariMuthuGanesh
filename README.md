@@ -42,6 +42,6 @@ I'm Hari Muthu Ganesh R, a cybersecurity enthusiast and growing full stack devel
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariMuthuGanesh&show_icons=true)
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=HariMuthuGanesh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariMuthuGanesh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HariMuthuGanesh&layout=compact&theme=radical)
