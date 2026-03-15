@@ -52,7 +52,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,cpp,c,python,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,cpp,java,c,python,git,github,linux,vscode" />
 
 ---
 
@@ -95,11 +95,6 @@
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HariMuthuGanesh&theme=tokyo-night"/>
-
-</p>
-
----
-<img src="https://raw.githubusercontent.com/HariMuthuGanesh/HariMuthuGanesh/output/github-contribution-grid-snake.svg" />
 
 </p>
 
