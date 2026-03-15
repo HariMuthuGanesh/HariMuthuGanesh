@@ -28,23 +28,22 @@
 ---
 
 ## 🌐 Connect with me
-
 <p>
 
 <a href="https://www.linkedin.com/in/harimuthuganesh/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 
 <a href="https://leetcode.com/u/Hari_Ganesh_R/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/hariganesh260">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
 </a>
 
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=485830&key=9dd1edbba3ada563be737c45555535f6361cb91e">
-<img src="https://avatars.githubusercontent.com/u/74754411?s=200&v=4" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/74754411?s=200&v=4" width="40"/>
 </a>
 
 </p>
@@ -53,7 +52,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,git,github,linux,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,cpp,c,python,git,github,linux,vscode" />
 
 ---
 
@@ -91,16 +90,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HariMuthuGanesh&theme=matrix&row=1&column=6" />
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -110,11 +99,6 @@
 </p>
 
 ---
-
-## 🐍 Snake Contribution
-
-<p align="center">
-
 <img src="https://raw.githubusercontent.com/HariMuthuGanesh/HariMuthuGanesh/output/github-contribution-grid-snake.svg" />
 
 </p>
